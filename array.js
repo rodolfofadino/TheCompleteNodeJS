@@ -17,3 +17,5 @@ console.log(grades);
 grades.forEach(function(a){
 	console.log(a);
 });
+
+//Rodolfo
